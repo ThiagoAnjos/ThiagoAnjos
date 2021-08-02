@@ -1,4 +1,4 @@
-# Olá, sou o Thiago Anjos. Desenvolvedor fullstack em formação
+# Olá, sou o Thiago Anjos, desenvolvedor fullstack em formação
 
 <!-- Linguagens -->
 <div style="display: inline_block"><br />
